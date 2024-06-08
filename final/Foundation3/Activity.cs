@@ -8,8 +8,8 @@ public class Activity
     _length = length; 
     } 
     public string GetDate() 
-    { 
-    return _date; 
+    {     
+        return _date; 
     } 
     public void SetDate(string date) 
     { 
